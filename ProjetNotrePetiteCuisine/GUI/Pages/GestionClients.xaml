@@ -1,0 +1,46 @@
+﻿<Page x:Class="ProjetNotrePetiteCuisine.GUI.Pages.GestionClients"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ProjetNotrePetiteCuisine.GUI.Pages"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      mc:Ignorable="d" 
+      d:DesignHeight="650" d:DesignWidth="1030"
+      Title="GestionClients">
+
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Background="White" Grid.Row="0" Margin="0,10,0,10">
+            <StackPanel Orientation="Horizontal" Margin="10,0,0,0">
+                <Image Source="pack://application:,,,/Resources/img/LogoNpC2.png" Width="50" Height="50"/>
+                <Label Content="Gestionnaire Cooking" FontSize="15" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="Black" Margin="20,0"/>
+            </StackPanel>
+            <Button Click="HomeButton_Click" BorderBrush="Transparent" Background="Transparent" Style="{StaticResource MaterialDesignFloatingActionDarkButton}" x:Name="HomeButton" Width="50" Height="50" HorizontalAlignment="Right" Margin="20,0">
+                <materialDesign:PackIcon Foreground="Black" Kind="Home" Width="30" Height="30" VerticalAlignment="Center"  HorizontalAlignment="Center"/>
+            </Button>
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <DataGrid SelectionMode="Single" Cursor="Hand" Margin="20,10,20,100" ItemsSource="{Binding}" x:Name="ClientsDatagrid" AutoGenerateColumns="False" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.HorizontalScrollBarVisibility="Auto" IsReadOnly="True">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Username" Binding="{Binding Username}" Width="Auto" Foreground="Black"/>
+                    <DataGridTextColumn Header="First name" Binding="{Binding FirstName }" Width="Auto"/>
+                    <DataGridTextColumn Header="Last Name" Binding="{Binding LastName }" Width="Auto"/>
+                    <DataGridTextColumn Header="Phone Number" Binding="{Binding PhoneNumber }" Width="Auto"/>
+                    <DataGridTextColumn Header="Email " Binding="{Binding Email }" Width="Auto" Foreground="Black"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="0,30">
+                <Button x:Name="ActualCart" Click="ActualCart_Click" Content="Actual Cart" Width="200" Height="40" Margin="20,0"/>
+                <Button x:Name="Orders" Click="Orders_Click" Content="All orders" Width="200" Height="40" Margin="20,0"/>
+                <Button x:Name="DeleteClient" Click="DeleteClient_Click" Content="Delete Client" Width="200" Height="40" Margin="20,0"/>
+            </StackPanel>
+        </Grid>
+
+    </Grid>
+</Page>

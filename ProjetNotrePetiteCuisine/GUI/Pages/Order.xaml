@@ -1,0 +1,122 @@
+﻿<Page x:Class="ProjetNotrePetiteCuisine.GUI.Pages.Order"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ProjetNotrePetiteCuisine.GUI.Pages"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      mc:Ignorable="d" 
+      d:DesignHeight="650" d:DesignWidth="1030"
+      Title="Order">
+
+    <Page.Resources>
+        <Style TargetType="Button" x:Key="RoundButton">
+            <Setter Property="Background" Value="#FE6560" />
+            <Setter Property="TextBlock.TextAlignment" Value="Center" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border CornerRadius="15" Background="#FE6560" BorderBrush="#ccc">
+                            <ContentPresenter x:Name="contentPresenter" ContentTemplate="{TemplateBinding ContentTemplate}" Content="{TemplateBinding Content}" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+
+    <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="1">
+            <Image Source="C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\Resources\img\fennel-yogurt-dip-2-Basically.jpg" Stretch="UniformToFill" HorizontalAlignment="Center"/>
+        </Grid>
+
+        <Grid>
+            <Button Width="50" Height="50" VerticalAlignment="Top" HorizontalAlignment="Left" Background="Transparent" BorderBrush="Transparent" x:Name="Precedent" Click="Precedent_Click">
+                <materialDesign:PackIcon Width="30" Height="25" Kind="ArrowBack" Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Button>
+            <StackPanel Margin="30,10">
+                <TextBlock Text="Notre petite Cuisine." FontSize="35" Margin="0,20,0,0" FontFamily="MADE GoodTime Grotesk" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+                <TextBlock Text="Commande" FontSize="25" FontFamily="MADE GoodTime Grotesk" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,10" />
+                <StackPanel Grid.Column="0" Margin="0,20,0,0">
+
+                    <DataGrid x:Name="RecipeCartDatagrid" HorizontalAlignment="Left" ItemsSource="{Binding}" Cursor="Hand" Height="200" Width="550" AutoGenerateColumns="False" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.HorizontalScrollBarVisibility="Auto" IsReadOnly="True">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Nom" Binding="{Binding Key}" Width="400" Foreground="Black"/>
+                            <DataGridTextColumn Header="Qté" Binding="{Binding Value}" Width="Auto" Foreground="Black"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="1*"/>
+                            <ColumnDefinition Width="1*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0">
+                            <materialDesign:TransitioningContent>
+                                <materialDesign:TransitioningContent.OpeningEffects>
+                                    <materialDesign:TransitionEffect Kind="SlideInFromLeft" Duration="0:0:0.8"/>
+                                </materialDesign:TransitioningContent.OpeningEffects>
+                                <StackPanel Orientation="Horizontal" Height="50">
+                                    <materialDesign:PackIcon Margin="0,20,0,0" Kind="GpsFixed" Width="30" Height="30"/>
+                                    <TextBox BorderBrush="Black" x:Name="AddressTextBox" Margin="10,20,0,0" materialDesign:HintAssist.Hint="ADDRESS" FontSize="15" TextWrapping="Wrap" Width="250" Height="30" VerticalAlignment="Bottom" Foreground="Black" materialDesign:HintAssist.HelperText="ADRESSE DE LIVRAISON" />
+                                </StackPanel>
+                            </materialDesign:TransitioningContent>
+                        </Grid>
+                        <Grid Grid.Column="1">
+                            <StackPanel Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="0,0,50,0">
+                                <TextBlock Text="Total :" Margin="0,0,10,0" Foreground="Black" FontSize="16" FontFamily="Segoe UI Light"/>
+                                <TextBlock x:Name="TotalPrice" Foreground="Black" FontSize="16" FontFamily="Segoe UI Light"/>
+                                <TextBlock Text="cooks" Margin="10,0,10,0" Foreground="Black" FontSize="16" FontFamily="Segoe UI Light"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="0,0,50,0">
+                                <TextBlock Text="Après déduction :" Margin="0,0,10,0" Foreground="Black" FontSize="16" FontFamily="Segoe UI Light"/>
+                                <TextBlock x:Name="TotalPriceAfterDeduction" Foreground="Black" FontSize="16" FontFamily="Segoe UI Light"/>
+                                <TextBlock Text="cooks" Margin="10,0,10,0" Foreground="Black" FontSize="16" FontFamily="Segoe UI Light"/>
+                            </StackPanel>
+                        </Grid>
+                    </Grid>
+                    <materialDesign:TransitioningContent>
+                        <materialDesign:TransitioningContent.OpeningEffects>
+                            <materialDesign:TransitionEffect Kind="SlideInFromRight" Duration="0:0:0.8"/>
+                        </materialDesign:TransitioningContent.OpeningEffects>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="1*"/>
+                                <ColumnDefinition Width="1*"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid Grid.Column="0">
+                                <materialDesign:TransitioningContent>
+                                    <materialDesign:TransitioningContent.OpeningEffects>
+                                        <materialDesign:TransitionEffect Kind="SlideInFromRight" Duration="0:0:0.8"/>
+                                    </materialDesign:TransitioningContent.OpeningEffects>
+                                    <StackPanel Orientation="Horizontal" Height="50">
+                                        <materialDesign:PackIcon Margin="0,20,0,0" Kind="AddLocation" Width="30" Height="30"/>
+                                        <TextBox BorderBrush="Black" x:Name="PostalCodeTextBox" PreviewTextInput="NumberValidationTextBox" Margin="10,20,0,0" materialDesign:HintAssist.Hint="POSTAL CODE" FontSize="15" Width="200" Height="30" VerticalAlignment="Bottom" Foreground="Black"/>
+                                    </StackPanel>
+                                </materialDesign:TransitioningContent>
+                            </Grid>
+                            <Grid Grid.Column="1">
+                                <materialDesign:TransitioningContent>
+                                    <materialDesign:TransitioningContent.OpeningEffects>
+                                        <materialDesign:TransitionEffect Kind="SlideInFromRight" Duration="0:0:0.8"/>
+                                    </materialDesign:TransitioningContent.OpeningEffects>
+                                    <StackPanel Orientation="Horizontal" Height="50">
+                                        <materialDesign:PackIcon Margin="0,20,0,0" Kind="LocationCity" Width="30" Height="30"/>
+                                        <TextBox BorderBrush="Black" x:Name="CityTextBox" Margin="10,20,0,0" materialDesign:HintAssist.Hint="CITY" FontSize="15" Width="200" Height="30" VerticalAlignment="Bottom" Foreground="Black"/>
+                                    </StackPanel>
+                                </materialDesign:TransitioningContent>
+                            </Grid>
+                        </Grid>
+                    </materialDesign:TransitioningContent>
+                    <Button Cursor="Hand" Click="Order_Click"  Style="{StaticResource RoundButton}" FontFamily="MADE GoodTime Grotesk" FontSize="13" Name="OrderButton" Content="Payer !" Foreground="Black" Height="35" Width="200" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,40"/>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+        
+        
+    </Grid>
+</Page>

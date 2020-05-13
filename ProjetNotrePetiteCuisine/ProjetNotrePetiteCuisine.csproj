@@ -1,0 +1,415 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\NUnit.3.12.0\build\NUnit.props" Condition="Exists('..\packages\NUnit.3.12.0\build\NUnit.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BDC86FAC-4A67-4A4B-87BC-5A6C674B54F8}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>ProjetNotrePetiteCuisine</RootNamespace>
+    <AssemblyName>ProjetNotrePetiteCuisine</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MaterialDesignColors, Version=1.2.4.1361, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialDesignColors.1.2.4\lib\net45\MaterialDesignColors.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialDesignThemes.Wpf, Version=3.1.1.1361, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialDesignThemes.3.1.1\lib\net45\MaterialDesignThemes.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.19.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework, Version=3.12.0.0, Culture=neutral, PublicKeyToken=2638cd05610744eb, processorArchitecture=MSIL">
+      <HintPath>..\packages\NUnit.3.12.0\lib\net45\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="TwoLayeredGUI, Version=1.1.0.0, Culture=neutral, PublicKeyToken=b5a116931ab0a8a5, processorArchitecture=x86">
+      <HintPath>..\packages\TwoLayeredGUI.1.1.0\lib\Net40\TwoLayeredGUI.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Compile Include="Data\Admin.cs" />
+    <Compile Include="Data\Base\Database.cs" />
+    <Compile Include="Data\Base\DatabasePopulate.cs" />
+    <Compile Include="Data\Base\ProtectedQueries.cs" />
+    <Compile Include="Data\Base\XmlPrinter.cs" />
+    <Compile Include="Data\Client.cs" />
+    <Compile Include="Data\Dashboard.cs" />
+    <Compile Include="Data\Exceptions\CookingException.cs" />
+    <Compile Include="Data\OrderType.cs" />
+    <Compile Include="Data\Product.cs" />
+    <Compile Include="Data\Recipe.cs" />
+    <Compile Include="Data\RecipeCreator.cs" />
+    <Compile Include="Data\Supplier.cs" />
+    <Compile Include="GUI\Pages\BasePage.xaml.cs">
+      <DependentUpon>BasePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Pages\Cart.xaml.cs">
+      <DependentUpon>Cart.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Pages\DashboardPage.xaml.cs">
+      <DependentUpon>DashboardPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Pages\GestionCdR.xaml.cs">
+      <DependentUpon>GestionCdR.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Pages\GestionClients.xaml.cs">
+      <DependentUpon>GestionClients.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Pages\InsertAdmin.xaml.cs">
+      <DependentUpon>InsertAdmin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Pages\Order.xaml.cs">
+      <DependentUpon>Order.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Pages\DatabaseLogin.xaml.cs">
+      <DependentUpon>DatabaseLogin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Pages\UserLogin.xaml.cs">
+      <DependentUpon>UserLogin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Pages\UserRegister.xaml.cs">
+      <DependentUpon>UserRegister.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Windows\ErrorPopup.xaml.cs">
+      <DependentUpon>ErrorPopup.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Pages\GestionProduits.xaml.cs">
+      <DependentUpon>GestionProduits.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Pages\GestionRecette.xaml.cs">
+      <DependentUpon>GestionRecette.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Pages\HomePageAdmin.xaml.cs">
+      <DependentUpon>HomePageAdmin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Windows\DatabasePopulateProgressBar.xaml.cs">
+      <DependentUpon>DatabasePopulateProgressBar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Windows\Proposition.xaml.cs">
+      <DependentUpon>Proposition.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Pages\RecipeDisplay.xaml.cs">
+      <DependentUpon>RecipeDisplay.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Pages\Recipes.xaml.cs">
+      <DependentUpon>Recipes.xaml</DependentUpon>
+    </Compile>
+    <Page Include="GUI\Pages\BasePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GUI\Pages\Cart.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GUI\Pages\DashboardPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GUI\Pages\GestionCdR.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GUI\Pages\GestionClients.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GUI\Pages\InsertAdmin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GUI\Pages\Order.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GUI\Pages\DatabaseLogin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GUI\Pages\UserLogin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GUI\Pages\UserRegister.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GUI\Windows\ErrorPopup.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GUI\Pages\GestionProduits.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GUI\Pages\GestionRecette.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GUI\Pages\HomePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GUI\Pages\HomePageAdmin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GUI\Windows\MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="GUI\Pages\HomePage.xaml.cs">
+      <DependentUpon>HomePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Windows\MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="GUI\Pages\Profil.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GUI\Windows\DatabasePopulateProgressBar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GUI\Windows\Proposition.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GUI\Pages\RecipeDisplay.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GUI\Pages\Recipes.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GUI\Pages\Profil.xaml.cs">
+      <DependentUpon>Profil.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="..\.editorconfig">
+      <Link>.editorconfig</Link>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sql\CREATE-EVENTS.sql" />
+    <None Include="Resources\sql\CREATE-TABLES.sql" />
+    <None Include="Resources\sql\CREATE-TRIGGERS.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\Baneau orchiettas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\breakfast-690128_1920.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\burger-731298_1920.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\burger-2559087_1920.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\chef_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\ChefIcon3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\close-up-1854245_1920.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\cooking-2132874_1920.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\CookSymbole.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img\cupcakes-690040_1920.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\DemiBol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\epinards_1920_1280.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\fennel-yogurt-dip-2-Basically.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\Food.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\freuits_rouges_1920_1280.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\HLY-FGFP-Kale-Pesto-1x1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\LogoNpC2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\Meat2Dennis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\MeatDennis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\noodle-1303003_1920.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\omelet-933514_1920.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\Orecchiette-Pasta-with-Shish-Barak.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\PastaBowl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\PastaDennis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\photo_plats.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\pizza-3007395_1920.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\raisins_1920_1280.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\salad-1786327_1920.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\spaghetti-660748_1920.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\spinach-791629_1920.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\steak-978654_1920.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\img\steak-1081819_1920.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Ce projet fait référence à des packages NuGet qui sont manquants sur cet ordinateur. Utilisez l'option de restauration des packages NuGet pour les télécharger. Pour plus d'informations, consultez http://go.microsoft.com/fwlink/?LinkID=322105. Le fichier manquant est : {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\NUnit.3.12.0\build\NUnit.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\NUnit.3.12.0\build\NUnit.props'))" />
+    <Error Condition="!Exists('..\packages\MaterialDesignThemes.3.1.1\build\MaterialDesignThemes.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\MaterialDesignThemes.3.1.1\build\MaterialDesignThemes.targets'))" />
+  </Target>
+  <Import Project="..\packages\MaterialDesignThemes.3.1.1\build\MaterialDesignThemes.targets" Condition="Exists('..\packages\MaterialDesignThemes.3.1.1\build\MaterialDesignThemes.targets')" />
+</Project>

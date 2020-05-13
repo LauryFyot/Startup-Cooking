@@ -1,0 +1,120 @@
+﻿<Page x:Class="ProjetNotrePetiteCuisine.GUI.Pages.DatabaseLogin"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ProjetNotrePetiteCuisine.GUI.Pages"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      mc:Ignorable="d"
+      Title="Register" Height="650" Width="1000">
+
+
+    <Page.Resources>
+        <Style TargetType="Button" x:Key="RoundButton">
+            <Setter Property="Background" Value="#FE6560" />
+            <Setter Property="TextBlock.TextAlignment" Value="Center" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border CornerRadius="20" Background="#FE6560" BorderBrush="#ccc">
+                            <ContentPresenter x:Name="contentPresenter" ContentTemplate="{TemplateBinding ContentTemplate}" Content="{TemplateBinding Content}" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="1">
+            <Image Source="pack://application:,,,/Resources/img/fennel-yogurt-dip-2-Basically.jpg" Stretch="UniformToFill" HorizontalAlignment="Center"/>
+        </Grid>
+        <Grid Grid.Column="0">
+            <Grid Margin="30,40">
+                <StackPanel>
+                    <TextBlock Text="Notre petite Cuisine." FontSize="40" Margin="0,20,0,10" FontFamily="MADE GoodTime Grotesk" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+                    <TextBlock Text="Database Login" FontSize="25" FontFamily="MADE GoodTime Grotesk" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="3*"/>
+                            <ColumnDefinition Width="2*"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0" Margin="0,20,0,0">
+                            <!--#region Username and Nom Prenom-->
+                            <materialDesign:TransitioningContent>
+                                <materialDesign:TransitioningContent.OpeningEffects>
+                                    <materialDesign:TransitionEffect Kind="SlideInFromLeft" Duration="0:0:0.8"/>
+                                </materialDesign:TransitioningContent.OpeningEffects>
+                                <StackPanel Orientation="Horizontal" Height="50">
+                                    <materialDesign:PackIcon Margin="0,20,0,0" Kind="Account" Width="30" Height="30"/>
+                                    <TextBox BorderBrush="Black" x:Name="UsernameTextBox" Margin="10,20,0,0" materialDesign:HintAssist.Hint="USERNAME" FontSize="15" TextWrapping="Wrap" Width="250" Height="30" VerticalAlignment="Bottom" Foreground="Black" materialDesign:HintAssist.HelperText="VOTRE USERNAME MYSQL" />
+                                </StackPanel>
+                            </materialDesign:TransitioningContent>
+
+                            <materialDesign:TransitioningContent>
+                                <materialDesign:TransitioningContent.OpeningEffects>
+                                    <materialDesign:TransitionEffect Kind="SlideInFromRight" Duration="0:0:0.8"/>
+                                </materialDesign:TransitioningContent.OpeningEffects>
+                                <StackPanel Orientation="Horizontal" Height="50">
+                                    <materialDesign:PackIcon Margin="0,20,0,0" Kind="Lock" Width="30" Height="30"/>
+                                    <PasswordBox BorderBrush="Black" x:Name="PasswordTextBox" Margin="10,20,0,0" materialDesign:HintAssist.Hint="PASSWORD" materialDesign:HintAssist.HelperText="VOTRE PASSWORD MYSQL" FontSize="15"  Width="200" Height="30" VerticalAlignment="Bottom" Foreground="Black"/>
+                                </StackPanel>
+                            </materialDesign:TransitioningContent>
+
+
+                            <materialDesign:TransitioningContent>
+                                <materialDesign:TransitioningContent.OpeningEffects>
+                                    <materialDesign:TransitionEffect Kind="SlideInFromRight" Duration="0:0:0.8"/>
+                                </materialDesign:TransitioningContent.OpeningEffects>
+                                <StackPanel Orientation="Horizontal" Height="50">
+                                    <materialDesign:PackIcon Margin="0,20,0,0" Kind="AccountEdit" Width="30" Height="30"/>
+                                    <TextBox BorderBrush="Black" x:Name="DatabaseTextBox" Margin="10,20,0,0" materialDesign:HintAssist.Hint="DATABASE NAME" materialDesign:HintAssist.HelperText="NOM DE LA DATABASE A LAQUELLE SE CONNECTER" FontSize="15" TextWrapping="Wrap" Width="250" Height="30" VerticalAlignment="Bottom" Foreground="Black"/>
+                                </StackPanel>
+                            </materialDesign:TransitioningContent>
+
+                            <materialDesign:TransitioningContent>
+                                <materialDesign:TransitioningContent.OpeningEffects>
+                                    <materialDesign:TransitionEffect Kind="SlideInFromRight" Duration="0:0:0.84"/>
+                                </materialDesign:TransitioningContent.OpeningEffects>
+                                <StackPanel Orientation="Horizontal" Height="50">
+                                    <materialDesign:PackIcon Margin="0,20,0,0" Kind="TextBox" Width="30" Height="30"/>
+                                    <TextBox BorderBrush="Black" x:Name="DomainTextBox" Margin="10,20,0,0" materialDesign:HintAssist.Hint="localhost" FontSize="15" TextWrapping="Wrap" Width="250" Height="30" VerticalAlignment="Bottom" Foreground="Black"/>
+                                </StackPanel>
+                            </materialDesign:TransitioningContent>
+
+                            <materialDesign:TransitioningContent>
+                                <materialDesign:TransitioningContent.OpeningEffects>
+                                    <materialDesign:TransitionEffect Kind="SlideInFromRight" Duration="0:0:0.8"/>
+                                </materialDesign:TransitioningContent.OpeningEffects>
+                                <StackPanel Orientation="Horizontal" Height="50" Margin="0,0,0,40">
+                                    <materialDesign:PackIcon Margin="0,20,0,0" Kind="At" Width="30" Height="30"/>
+                                    <TextBox BorderBrush="Black" x:Name="PortTextBox" Margin="10,20,0,0" PreviewTextInput="NumberValidationTextBox" materialDesign:HintAssist.Hint="3306" FontSize="15" TextWrapping="Wrap" Width="250" Height="30" VerticalAlignment="Bottom" Foreground="Black"/>
+                                </StackPanel>
+                            </materialDesign:TransitioningContent>
+                            <!--#endregion-->
+                        </StackPanel>
+                        <Grid Grid.Column="1">
+                            <Border Width="100" Height="100" CornerRadius="80" VerticalAlignment="Top" Margin="0,50,0,0">
+                                <Border.Background>
+                                    <ImageBrush ImageSource="pack://application:,,,/Resources/img/chef_icon.png"/>
+                                </Border.Background>
+                            </Border>
+                        </Grid>
+                    </Grid>
+
+                    <materialDesign:TransitioningContent>
+                        <materialDesign:TransitioningContent.OpeningEffects>
+                            <materialDesign:TransitionEffect Kind="SlideInFromBottom" Duration="0:0:0.8"/>
+                        </materialDesign:TransitioningContent.OpeningEffects>
+                        <Button Cursor="Hand" Click="LoginClient" Style="{StaticResource RoundButton}" FontFamily="MADE GoodTime Grotesk" FontSize="13" Name="Login" Content="Login" Foreground="Black" Height="40" Width="450" VerticalAlignment="Bottom" HorizontalAlignment="Center"/>
+                    </materialDesign:TransitioningContent>
+
+                </StackPanel>
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>

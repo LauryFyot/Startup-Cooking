@@ -1,0 +1,35 @@
+﻿<Page x:Class="ProjetNotrePetiteCuisine.GUI.Pages.Recipes"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ProjetNotrePetiteCuisine.GUI.Pages"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      mc:Ignorable="d" 
+      d:DesignHeight="650" d:DesignWidth="1030"
+      Title="Recipes">
+
+    <Grid Background="White">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid Margin="20,20,20,40" Grid.Row="0">
+            <DataGrid VerticalAlignment="Top" Height="520" Cursor="Hand" SelectionMode="Single" MouseDoubleClick="RecipesDataGrid_MouseDoubleClick" ItemsSource="{Binding}" x:Name="RecipesDataGrid" AutoGenerateColumns="False" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.HorizontalScrollBarVisibility="Auto" IsReadOnly="True" SelectionUnit="FullRow">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Nom" Binding="{Binding Name}" Width="Auto" Foreground="Black"/>
+                    <DataGridTextColumn Header="PrixCook" Binding="{Binding Price}" Width="Auto"/>
+                    <DataGridTextColumn Header="Type" Binding="{Binding Type}" Width="Auto"/>
+                    <DataGridTextColumn Header="Créateur" Binding="{Binding RecipeCreatorUsername}" Width="Auto"/>
+                    <DataGridTextColumn Header="Créée le" Binding="{Binding CreationDate}" Width="Auto"/>
+                    <DataGridTextColumn Header="Descriptif" Binding="{Binding Description}" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <StackPanel Grid.Row="1" Orientation="Horizontal" VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="0,10">
+                <Button Background="#FE6560" x:Name="Add" Click="ShowRecipe" FontFamily="MADE GoodTime Grotesk" Content="Voir la recette !" Width="200" Height="40" Margin="20,0"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>

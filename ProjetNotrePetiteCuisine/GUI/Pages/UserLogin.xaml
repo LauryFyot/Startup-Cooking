@@ -1,0 +1,82 @@
+﻿<Page x:Class="ProjetNotrePetiteCuisine.GUI.Pages.UserLogin"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ProjetNotrePetiteCuisine.GUI.Pages"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      mc:Ignorable="d"
+      Title="Login" Height="650" Width="1000">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <!--#region Image-->
+        <Grid Grid.Column="1">
+            <Image  Stretch="UniformToFill" HorizontalAlignment="Center" VerticalAlignment="Center" Source="pack://application:,,,/Resources/img/PastaBowl.png"/>
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Right">
+                <Button x:Name="CloseButton" Command="{x:Static materialDesign:DialogHost.CloseDialogCommand}" Style="{StaticResource MaterialDesignIconButton}" Margin="10" Height="25" Width="25">
+                    <materialDesign:PackIcon Kind="CloseCircleOutline" Foreground="White" Height="25" Width="25"/>
+                </Button>
+            </StackPanel>
+        </Grid>
+        <!--#endregion-->
+
+        <Grid Grid.Column="0">
+            <Grid Margin="50,80">
+                <StackPanel>
+                    <TextBlock Text="Notre petite Cuisine." FontSize="30" Margin="0,40,0,10" FontFamily="MADE GoodTime Grotesk" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+                    <TextBlock Text="Login" FontSize="25" FontFamily="MADE GoodTime Grotesk" HorizontalAlignment="Center" VerticalAlignment="Center" />
+
+                    <!--#region Username and Password-->
+                    <materialDesign:TransitioningContent>
+                        <materialDesign:TransitioningContent.OpeningEffects>
+                            <materialDesign:TransitionEffect Kind="SlideInFromLeft" Duration="0:0:0.8"/>
+                        </materialDesign:TransitioningContent.OpeningEffects>
+                        <StackPanel Orientation="Horizontal" Height="70">
+                            <materialDesign:PackIcon Margin="20,40,0,0" Kind="Account" Width="30" Height="30"/>
+                            <TextBox BorderBrush="Black" x:Name="UsernameTextBox" Margin="10,40,0,0" materialDesign:HintAssist.Hint="USERNAME" FontSize="15" TextWrapping="Wrap" Width="200" Height="30" VerticalAlignment="Bottom" Foreground="Black" />
+                        </StackPanel>
+                    </materialDesign:TransitioningContent>
+
+                    <materialDesign:TransitioningContent>
+                        <materialDesign:TransitioningContent.OpeningEffects>
+                            <materialDesign:TransitionEffect Kind="SlideInFromRight" Duration="0:0:0.8"/>
+                        </materialDesign:TransitioningContent.OpeningEffects>
+                        <StackPanel Orientation="Horizontal" Height="70">
+                            <materialDesign:PackIcon Margin="20,40,0,0" Kind="Lock" Width="30" Height="30"/>
+                            <PasswordBox BorderBrush="Black" x:Name="PasswordTextBox" Margin="10,40,0,0" materialDesign:HintAssist.Hint="PASSWORD" FontSize="15"  Width="200" Height="30" VerticalAlignment="Bottom" Foreground="Black"/>
+                        </StackPanel>
+                    </materialDesign:TransitioningContent>
+                    <!--#endregion-->
+
+                    <!--#region Login button-->
+                    <materialDesign:TransitioningContent>
+                        <materialDesign:TransitioningContent.OpeningEffects>
+                            <materialDesign:TransitionEffect Kind="SlideInFromBottom" Duration="0:0:0.8"/>
+                        </materialDesign:TransitioningContent.OpeningEffects>
+                        <Button x:Name="LoginButton" Background="#FE6560" Cursor="Hand" Click="SignIn" FontFamily="MADE GoodTime Grotesk" FontSize="13" Content="LOGIN" Foreground="Black" Height="40" Width="100" HorizontalAlignment="Center" Margin="20,40,20,0"/>
+                    </materialDesign:TransitioningContent>
+                    <!--#endregion-->
+
+                </StackPanel>
+
+                <!--#region Hyperlink-->
+                <materialDesign:TransitioningContent>
+                    <materialDesign:TransitioningContent.OpeningEffects>
+                        <materialDesign:TransitionEffect Kind="FadeIn" Duration="0:0:0.8"/>
+                    </materialDesign:TransitioningContent.OpeningEffects>
+                    <TextBlock VerticalAlignment="Bottom">
+                                <Hyperlink Foreground="Black" Click="NavigateRegister">
+                                    Pas encore membre ? Inscrivez-vous !
+                                </Hyperlink>
+                    </TextBlock>
+                </materialDesign:TransitioningContent>
+                <!--#endregion-->
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>

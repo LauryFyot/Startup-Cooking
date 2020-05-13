@@ -1,0 +1,395 @@
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.csprojAssemblyReference.cache
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\MainWindow.g.cs
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\App.g.cs
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine_MarkupCompile.cache
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine_MarkupCompile.lref
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\CreateAccount.g.cs
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\HomePage.g.cs
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\Profil.g.cs
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\Proposition.g.cs
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\ProjetNotrePetiteCuisine.exe.config
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\ProjetNotrePetiteCuisine.exe
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\ProjetNotrePetiteCuisine.pdb
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignColors.dll
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MySql.Data.dll
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\Google.Protobuf.dll
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\Renci.SshNet.dll
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\App.baml
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\CreateAccount.baml
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\HomePage.baml
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\MainWindow.baml
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\Profil.baml
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\Proposition.baml
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.g.resources
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.Properties.Resources.resources
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.csproj.GenerateResource.cache
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.csproj.CopyComplete
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.exe
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.pdb
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\Recipes.g.cs
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\Recipes.baml
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\RecipeDisplay.g.cs
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\RecipeDisplay.baml
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\Gestionnaire.g.cs
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\HomePageG.g.cs
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\Gestionnaire.baml
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\HomePageG.baml
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GestionRecette.g.cs
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GestionRecette.baml
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\FenetrePrincipale.g.cs
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\FenetrePrincipale.baml
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GestionProduits.g.cs
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GestionProduits.baml
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ValidationRecipe.g.cs
+C:\Users\ostov\Documents\ECOLE\ESILV\A3\TRAVAIL\TRONC COMMUN\BDD & INTEROPERABILITE\Projet\C#\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ValidationRecipe.baml
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\ProjetNotrePetiteCuisine.exe.config
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\ProjetNotrePetiteCuisine.exe
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\ProjetNotrePetiteCuisine.pdb
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignColors.dll
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MySql.Data.dll
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\Google.Protobuf.dll
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\Renci.SshNet.dll
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.csprojAssemblyReference.cache
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\App.g.cs
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine_MarkupCompile.cache
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine_MarkupCompile.lref
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\App.baml
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.g.resources
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.Properties.Resources.resources
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.csproj.GenerateResource.cache
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.csproj.CoreCompileInputs.cache
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.csproj.CopyComplete
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.exe
+C:\Users\Barthélémy\source\repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.pdb
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\nunit.framework.dll
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\nunit.framework.pdb
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\nunit.framework.xml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\UserLogin.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionProduits.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionRecette.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\HomePage.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\MainWindow.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Profil.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\Proposition.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\RecipeDisplay.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Recipes.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\ValidationRecipe.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\UserLogin.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionProduits.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionRecette.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\HomePage.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\MainWindow.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Profil.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\Proposition.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\RecipeDisplay.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Recipes.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\ValidationRecipe.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\UserRegister.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\UserRegister.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\ErrorPopup.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\ErrorPopup.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\DatabaseLogin.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\DatabaseLogin.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\TwoLayeredGUI.dll
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\TwoLayeredGUI.xml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\DatabasePopulateProgressBar.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\DatabasePopulateProgressBar.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\HomePageAdmin.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\HomePageAdmin.baml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\ProjetNotrePetiteCuisine.exe.config
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\ProjetNotrePetiteCuisine.exe
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\ProjetNotrePetiteCuisine.pdb
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignColors.dll
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MySql.Data.dll
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\nunit.framework.dll
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\TwoLayeredGUI.dll
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\Google.Protobuf.dll
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\Renci.SshNet.dll
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\nunit.framework.pdb
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\nunit.framework.xml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\TwoLayeredGUI.xml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.csprojAssemblyReference.cache
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\ErrorPopup.baml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\DatabaseLogin.g.cs
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\UserLogin.g.cs
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\UserRegister.g.cs
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\ErrorPopup.g.cs
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionProduits.g.cs
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionRecette.g.cs
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\HomePage.g.cs
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\HomePageAdmin.g.cs
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\MainWindow.g.cs
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Profil.g.cs
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\DatabasePopulateProgressBar.g.cs
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\Proposition.g.cs
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\RecipeDisplay.g.cs
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Recipes.g.cs
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\App.g.cs
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine_MarkupCompile.cache
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine_MarkupCompile.lref
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\App.baml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\DatabaseLogin.baml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\UserLogin.baml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\UserRegister.baml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionProduits.baml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionRecette.baml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\HomePage.baml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\HomePageAdmin.baml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\MainWindow.baml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Profil.baml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\DatabasePopulateProgressBar.baml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\Proposition.baml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\RecipeDisplay.baml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Recipes.baml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.g.resources
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.Properties.Resources.resources
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.csproj.GenerateResource.cache
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.csproj.CopyComplete
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.exe
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.pdb
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Order.g.cs
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Order.baml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Cart.g.cs
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Cart.baml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\DashboardPage.g.cs
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\DashboardPage.baml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionClients.g.cs
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionClients.baml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\InsertAdmin.g.cs
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\InsertAdmin.baml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\BasePage.g.cs
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\BasePage.baml
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionCdR.g.cs
+C:\Users\ostov\Downloads\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionCdR.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\ProjetNotrePetiteCuisine.exe.config
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\ProjetNotrePetiteCuisine.exe
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\ProjetNotrePetiteCuisine.pdb
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignColors.dll
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MySql.Data.dll
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\nunit.framework.dll
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\TwoLayeredGUI.dll
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\Google.Protobuf.dll
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\Renci.SshNet.dll
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\nunit.framework.pdb
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\nunit.framework.xml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\TwoLayeredGUI.xml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.csprojAssemblyReference.cache
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\ErrorPopup.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\BasePage.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Cart.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\DashboardPage.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionCdR.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionClients.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\InsertAdmin.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Order.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\DatabaseLogin.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\UserLogin.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\UserRegister.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\ErrorPopup.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionProduits.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionRecette.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\HomePage.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\HomePageAdmin.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\MainWindow.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Profil.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\DatabasePopulateProgressBar.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\Proposition.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\RecipeDisplay.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Recipes.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\App.g.cs
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine_MarkupCompile.cache
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine_MarkupCompile.lref
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\App.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\BasePage.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Cart.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\DashboardPage.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionCdR.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionClients.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\InsertAdmin.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Order.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\DatabaseLogin.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\UserLogin.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\UserRegister.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionProduits.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionRecette.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\HomePage.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\HomePageAdmin.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\MainWindow.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Profil.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\DatabasePopulateProgressBar.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\Proposition.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\RecipeDisplay.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Recipes.baml
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.g.resources
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.Properties.Resources.resources
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.csproj.GenerateResource.cache
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.csproj.CoreCompileInputs.cache
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.csproj.CopyComplete
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.exe
+C:\Users\Barthélémy\Source\Repos\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.pdb
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\ProjetNotrePetiteCuisine.exe.config
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\ProjetNotrePetiteCuisine.exe
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\ProjetNotrePetiteCuisine.pdb
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignColors.dll
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MySql.Data.dll
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\nunit.framework.dll
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\TwoLayeredGUI.dll
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\Google.Protobuf.dll
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\Renci.SshNet.dll
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\nunit.framework.pdb
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\nunit.framework.xml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\TwoLayeredGUI.xml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.csprojAssemblyReference.cache
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\ErrorPopup.baml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\BasePage.g.cs
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Cart.g.cs
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\DashboardPage.g.cs
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionCdR.g.cs
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionClients.g.cs
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\InsertAdmin.g.cs
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Order.g.cs
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\DatabaseLogin.g.cs
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\UserLogin.g.cs
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\UserRegister.g.cs
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\ErrorPopup.g.cs
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionProduits.g.cs
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionRecette.g.cs
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\HomePage.g.cs
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\HomePageAdmin.g.cs
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\MainWindow.g.cs
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Profil.g.cs
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\DatabasePopulateProgressBar.g.cs
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\Proposition.g.cs
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\RecipeDisplay.g.cs
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Recipes.g.cs
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\App.g.cs
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine_MarkupCompile.cache
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine_MarkupCompile.lref
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\App.baml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\BasePage.baml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Cart.baml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\DashboardPage.baml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionCdR.baml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionClients.baml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\InsertAdmin.baml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Order.baml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\DatabaseLogin.baml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\UserLogin.baml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\UserRegister.baml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionProduits.baml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionRecette.baml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\HomePage.baml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\HomePageAdmin.baml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\MainWindow.baml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Profil.baml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\DatabasePopulateProgressBar.baml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\Proposition.baml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\RecipeDisplay.baml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Recipes.baml
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.g.resources
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.Properties.Resources.resources
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.csproj.GenerateResource.cache
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.csproj.CopyComplete
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.exe
+C:\Users\ostov\Documents\cbfxg\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.pdb
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\ProjetNotrePetiteCuisine.exe.config
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\ProjetNotrePetiteCuisine.exe
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\ProjetNotrePetiteCuisine.pdb
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignColors.dll
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MySql.Data.dll
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\nunit.framework.dll
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\TwoLayeredGUI.dll
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\Google.Protobuf.dll
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\Renci.SshNet.dll
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\nunit.framework.pdb
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\nunit.framework.xml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\bin\Debug\TwoLayeredGUI.xml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.csprojAssemblyReference.cache
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\ErrorPopup.baml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\BasePage.g.cs
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Cart.g.cs
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\DashboardPage.g.cs
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionCdR.g.cs
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionClients.g.cs
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\InsertAdmin.g.cs
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Order.g.cs
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\DatabaseLogin.g.cs
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\UserLogin.g.cs
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\UserRegister.g.cs
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\ErrorPopup.g.cs
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionProduits.g.cs
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionRecette.g.cs
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\HomePage.g.cs
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\HomePageAdmin.g.cs
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\MainWindow.g.cs
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Profil.g.cs
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\DatabasePopulateProgressBar.g.cs
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\Proposition.g.cs
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\RecipeDisplay.g.cs
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Recipes.g.cs
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\App.g.cs
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine_MarkupCompile.cache
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine_MarkupCompile.lref
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\App.baml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\BasePage.baml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Cart.baml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\DashboardPage.baml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionCdR.baml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionClients.baml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\InsertAdmin.baml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Order.baml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\DatabaseLogin.baml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\UserLogin.baml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\UserRegister.baml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionProduits.baml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\GestionRecette.baml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\HomePage.baml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\HomePageAdmin.baml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\MainWindow.baml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Profil.baml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\DatabasePopulateProgressBar.baml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Windows\Proposition.baml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\RecipeDisplay.baml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\GUI\Pages\Recipes.baml
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.g.resources
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.Properties.Resources.resources
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.csproj.GenerateResource.cache
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.csproj.CopyComplete
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.exe
+C:\Users\ostov\Documents\ougf\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\ProjetNotrePetiteCuisine\obj\Debug\ProjetNotrePetiteCuisine.pdb
